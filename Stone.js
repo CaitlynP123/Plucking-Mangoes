@@ -10,7 +10,7 @@ class Stone{
     this.stone = Bodies.circle(x,y,r,option)
     this.r = r
     World.add(world, this.stone)
-    this.image = loadImage("Plucking mangoes/stone.png")
+    this.image = loadImage("Plucking-mangoes-img/stone.png")
     }
     
     display(){
