@@ -10,8 +10,8 @@ var tree, treeImg
 
 function preload()
 {
-	boyImg = loadImage("Plucking mangoes/boy.png")
-	treeImg = loadImage("Plucking mangoes/tree.png")
+	boyImg = loadImage("Plucking-mangoes-img/boy.png")
+	treeImg = loadImage("Plucking-mangoes-img/tree.png")
 }
 
 function setup() {
