@@ -9,7 +9,7 @@ class Mango{
         this.mango = Bodies.circle(x,y,r,option)
         this.r = r
         World.add(world, this.mango)
-        this.image = loadImage("Plucking-mangoes-Img/mango.png")
+        this.image = loadImage("Plucking-mangoes-img/mango.png")
     }
     display(){
         var pos = this.mango.position
